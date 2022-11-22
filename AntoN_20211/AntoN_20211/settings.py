@@ -55,7 +55,7 @@ ROOT_URLCONF = 'AntoN_20211.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': ['templates'],
+        'DIRS': ['AntoN_20211/templates'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
